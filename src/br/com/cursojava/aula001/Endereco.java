@@ -2,7 +2,7 @@ package br.com.cursojava.aula001;
 
 public class Endereco {
 	public static String rua = "Rua 21 de março";
-	public static String numero = "989";
+	public static int numero = 989;
 	public static String bairro = "Carijos";
 	public static String cidade ="Indaial";
 	public static String estado ="SC";
