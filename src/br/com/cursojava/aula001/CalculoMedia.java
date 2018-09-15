@@ -7,6 +7,6 @@ public class CalculoMedia {
 		double nota2 = 9;
 		double nota3 = 8;
 		
-		System.out.println("A média é: "+ (nota1+nota2+nota3)/3);
+		System.out.printf("A média é: nota (%f + %f + %f)/3 = %f",nota1,nota2,nota3, (nota1+nota2+nota3)/3);
 	}
 }
